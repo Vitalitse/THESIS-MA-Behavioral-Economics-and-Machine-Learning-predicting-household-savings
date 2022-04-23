@@ -1,0 +1,162 @@
+Variable Name,Variables for ML
+SWB_1,I am satisfied with my life
+SWB_2,I am optimistic about my future
+SWB_3,"If I work hard today, I will be more successful in the future"
+FWB2_4,My finances control my life
+FS1_1,I know how to get myself to follow through on my financial intentions
+FS1_2,I know where to find the advice I need to make decisions involving money
+FS1_3,I know how to make complex financial decisions
+FS1_4,I am able to make good financial decisions that are new to me
+FS1_5,I am able to recognize a good financial investment
+FS1_6,I know how to keep myself from spending too much
+FS1_7,I know how to make myself save
+FS2_1,I know when I do not have enough info to make a good decision involving my money
+FS2_2,I know when I need advice about my money
+FS2_3,I struggle to understand financial information
+SUBKNOWL1,How would you assess your overall financial knowledge?
+ACT1_1,I follow-through on my financial commitments to others
+PROPPLAN_3,I set financial goals for what I want to achieve with my money
+PROPPLAN_4,I prepare a clear plan of action w/ detailed steps to achieve my financial goals
+PROPPLAN_1,I consult my budget to see how much money I have left
+PROPPLAN_2,I actively consider the steps I need to take to stick to my budget
+ACT1_2,I follow-through on financial goals I set for myself
+SELFCONTROL_3,I am able to work diligently toward long-term goals
+MANAGE1_1,Paid all your bills on time
+MANAGE1_2,Stayed within your budget or spending plan
+MANAGE1_3,Paid off credit card balance in full each month
+MANAGE1_4,"Checked your statements, bills and receipts to make sure there were no errors"
+FRUGALITY,"If I can re-use an item I already have, there’s no sense in buying something new"
+AUTOMATED_1,A Retirement Savings Account
+AUTOMATED_2,A Non-Retirement Savings Account
+ASK1_1,I do my own research before making decisions involving money
+ASK1_2,I ask other people their opinions before making decisions involving money
+SUBNUMERACY2,Prefers words for expressions of probabilities
+SUBNUMERACY1,How good are you at working with percentages?
+CHANGEABLE,Belief that ability to manage money is NOT changeable
+FINGOALS,Do you have a current or recent financial goal?
+FK1correct,actual financial knowladge1 com interest
+FK2correct,actual financial knowladge2 inflation and returns
+FK3correct,actual financial knowladge3 stocks and mutual funds
+KH1correct,actual understanding of long-term returns on investment
+KH2correct,actual understanding of stocks vs bond vs savings volatility
+KH3correct,actual understanding of benefits of diversification
+KH4correct,actual understanding of possibility of stock market losses
+KH5correct,actual understanding of life insurance
+KH6correct,actual understanding of possibility of housing market losses
+KH7correct,actual understanding of credit card minimum payments
+KH8correct,actual understanding of relationship of bonds and interest rates
+KH9correct,actual understanding of mortgage term length on total interest paid
+ENDSMEET,Difficulty of covering monthly expenses and bills
+HOUSING,Which one of the following best describes your housing situation?
+LIVINGARRANGEMENT,Current living arrangements
+HOUSERANGES,About how much do you pay for your home each month?
+VALUERANGES,"If you were to sell your home today, what do you think it would be worth?"
+MORTGAGE,What do you owe on your home today?
+SAVINGSRANGES,How much money do you have in savings today...?
+PRODHAVE_1,Checking or Savings Account at a bank or credit union
+PRODHAVE_2,Life Insurance
+PRODHAVE_3,Have Health Insurance
+PRODHAVE_4,Retirement Account (such as a 401k or IRA)
+PRODHAVE_5,Pension
+PRODHAVE_6,"Non-Retirement Investments (such as stocks, bonds or mutual funds)"
+PRODHAVE_7,Education Savings Account (such as 529 or Coverdale)
+PRODHAVE_8,Student/Education Loan (for yourself or someone else)
+PRODHAVE_9,Respondent did not select any item in PRODHAVE bank
+PRODUSE_1,Used payday loan or cash advance loan
+PRODUSE_2,Used pawn loan or auto title loan
+PRODUSE_3,Used reloadable card not linked with checking or savings account
+PRODUSE_4,Used nonbank service for international money transfers
+PRODUSE_5,Used nonbank service for check cashing or purchasing a money order
+PRODUSE_6,Respondent did not select any item in PRODUSE bank
+VOLATILITY,Household income volatility
+BENEFITS_1,Health Insurance at work
+BENEFITS_2,401(k) or Other Employer-Sponsored Retirement Savings Account
+BENEFITS_3,Defined-Benefit Pension
+BENEFITS_4,Tuition Reimbursement and/or Student Debt Repayment
+BENEFITS_5,Work/Life Benefits
+FRAUD2,Victim of financial fraud or attempted financial fraud in past 5 years
+COVERCOSTS,Course of action if income did not cover living costs
+BORROW_1,My friends or family would lend me the money and expect me to repay them
+BORROW_2,My friends or family would give me the money with no expectation of repayment
+SHOCKS_1,Lost a job
+SHOCKS_2,Work hours/pay reduced or business owned by self/HH mem had financial difficulty
+SHOCKS_3,Received a foreclosure notice
+SHOCKS_4,Had a major car or home repair
+SHOCKS_5,Had a health emergency
+SHOCKS_6,Got a divorce or separation
+SHOCKS_7,Added a child to the household
+SHOCKS_8,Experienced the death of primary breadwinner
+SHOCKS_9,Received a large sum of money beyond normal income
+SHOCKS_10,Had a child start daycare or college
+SHOCKS_11,Provided unexpected financial support to a family member or friend
+SHOCKS_12,Respondent did not select any item in SHOCKS bank
+MANAGE2,Who in household makes financial decisions
+PAIDHELP,Do you pay the person who helps take care of money matters in your household?
+PAREDUC,Highest level of education by person/people who raised respondent
+FINSOC2_1,Discussed family financial matters with me
+FINSOC2_2,Spoke to me about the importance of saving
+FINSOC2_3,Discussed how to establish a good credit rating
+FINSOC2_4,Taught me how to be a smart shopper
+FINSOC2_5,Taught me that my actions determine my success in life
+FINSOC2_6,Provided me with a regular allowance
+FINSOC2_7,Provided me with a savings account
+OBJNUMERACY1,Which of the following represents the biggest risk of getting a disease?
+MATERIALISM_1,"I admire people who own expensive homes, cars and clothes"
+MATERIALISM_2,The things I own say a lot about how well I’m doing in life
+MATERIALISM_3,I like to own things that impress people
+CONNECT,Psychological connectedness
+HEALTH,"In general, would you say your health is . . ."
+SCFHORIZON,Financial planning time horizon
+DISCOUNT,"If you had a choice, would you rather receive . . .?"
+DISTRESS,Lot of stress in respondent's life
+SELFCONTROL_1,I often act without thinking through all the alternatives
+SELFCONTROL_2,I am good at resisting temptation
+GOALCONF,Confidence in own ability to achieve financial goals
+OUTLOOK_1,There are services in this area to help me
+OUTLOOK_2,"There are good work opportunities for me, if I choose to take them"
+INTERCONNECTIONS_1,Parent
+INTERCONNECTIONS_2,Spouse/Partner
+INTERCONNECTIONS_3,"Extended family (e.g., uncle, aunt, cousins, grandparents)"
+INTERCONNECTIONS_4,Employer
+INTERCONNECTIONS_5,Friends/Co-workers
+INTERCONNECTIONS_6,Community or faith-based organizations
+INTERCONNECTIONS_7,Financial institution
+INTERCONNECTIONS_8,"Professional advisor, planner or counselor/coach"
+INTERCONNECTIONS_9,Government
+INTERCONNECTIONS_10,Respondent did not select any item in INTERCONNECTIONS bank
+PEM,Everyone has a fair chance at moving up the economic ladder
+HOUSESAT,How satisfied are you with the place you live currently?
+LIFEEXPECT,How likely do you believe it is that you will live beyond age 75?
+HHEDUC,Highest level of education of all household members
+KIDS_NoChildren,I have no children that I support financially
+KIDS_1,Less than 7 years old
+KIDS_2,7 to 12 years old
+KIDS_3,13 to 17 years old
+KIDS_4,More than 18 years old
+EMPLOY,Primary or only employment status
+EMPLOY1_1,Self-employed
+EMPLOY1_2,Work full-time for an employer or the military
+EMPLOY1_3,Work part-time for an employer or the military
+EMPLOY1_4,Homemaker
+EMPLOY1_5,Full-time student
+EMPLOY1_6,"Permanently sick, disabled or unable to work"
+EMPLOY1_7,Unemployed or temporarily laid off
+EMPLOY1_8,Retired
+EMPLOY1_9,Respondent did not select any item in EMPLOY1 bank
+MILITARY,Current/former member of US Armed Forces or spouse/dependent of service member
+Military_Status,Military status
+agecat,Age
+generation,Generation
+PPEDUC,Education (Highest Degree Received)
+PPETHM,Race / Ethnicity
+PPGENDER,Gender
+PPHHSIZE,Household Size
+PPINCIMP,Household Income
+PPMARIT,Marital Status
+PPREG4,Census Region
+PPREG9,Census Division
+PPT01,Presence of Household Members - Children 0-1
+PPT25,Presence of Household Members - Children 2-5
+PPT612,Presence of Household Members - Children 6-12
+PPT1317,Presence of Household Members - Children 13-17
+PPT18OV,Presence of Household Members - Adults 18+
